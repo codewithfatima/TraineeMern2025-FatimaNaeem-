@@ -1,15 +1,21 @@
 ### if and else statement in javasscript
-- If Means if acondition is true the execute some code if
-Notification, do something else.
 
-1. checked property
-that determins the checked state of an HTML character or radio button Element…
 
-2. ternary operator
-A shortout to if() and else() statements helps to assign a varaiable on a
-condition condition ? codeIsTrue : codeIsFalse
+ - If  Means  if  acondition  is  true  the  execute  some  code  if 
+   Notification, do  something  else.**
 
-Examples.
+
+## 1. checked property
+
+**that  determins  the  checked  state  of  an  HTML  character  or  radio  button  Element..**
+
+
+## 2. ternary operator 
+
+**A  shortout  to  if() and  else() statements  helps  to  assign  a  varaiable  on  a
+condition  condition  ?  codeIsTrue  :  codeIsFalse**
+
+**Examples.*
 
 let age;
 
