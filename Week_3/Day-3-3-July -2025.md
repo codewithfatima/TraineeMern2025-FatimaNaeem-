@@ -1,4 +1,13 @@
-### Day - 3 
+### 
+
+Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)
+
+ - Why we use asynchronous And what does it means ??
+ 
+ - It allow you to break down bigger project into smaller tasks.
+ - And then using any of these 3 methods either , callbacks, promises, or async awai
+
+
 
 
 ## JSON (javascript object Notation )
