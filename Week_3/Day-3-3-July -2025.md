@@ -26,7 +26,7 @@
 
 ---
 
-## ⏳ 1. Asynchronous JavaScript
+##  1. Asynchronous JavaScript
 
 ### 🔹 What is "async"?
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔁 2. Promises
+##  2. Promises
 
 - A **Promise** represents a value that may be available **now, later, or never**.
 - Has three states:
@@ -50,18 +50,18 @@
 
 ---
 
-## ✅ 3. `async` and `await`
+##  3. `async` and `await`
 
 - `async` makes a function return a Promise.
 - `await` pauses the code **inside an async function** until the Promise resolves.
 
-### 🧠 Why It Matters:
+###  Why It Matters:
 - Allows writing **asynchronous code in a synchronous style**
 - Cleaner, readable, and less error-prone
 
 ---
 
-## 📤 4. JavaScript Modules
+##  4. JavaScript Modules
 
 ### 🔸 Why Modules?
 
@@ -69,15 +69,15 @@
 - Avoid naming conflicts
 - Enable **code sharing** between files or projects
 
-### 🔹 `export`
+###  `export`
 
 - Used to **make variables, functions, or classes public** from a module.
 
-### 🔹 `import`
+###  `import`
 
 - Used to **bring exported code into another file**.
 
-### 🧠 Things to Remember:
+###  Things to Remember:
 
 | Feature       | Use                          |
 |---------------|-------------------------------|
@@ -88,7 +88,7 @@
 
 ---
 
-## 🌐 5. JSON (JavaScript Object Notation)
+##  5. JSON (JavaScript Object Notation)
 
 ### 🔹 What is JSON?
 
@@ -100,7 +100,7 @@
 - Used for data transfer between frontend and backend
 - Common in APIs, config files, databases
 
-### 🔧 Key Methods:
+###  Key Methods:
 
 | Method            | Purpose                            |
 |-------------------|-------------------------------------|
@@ -109,14 +109,14 @@
 
 ---
 
-## 🌍 6. Fetching JSON Data (Asynchronous)
+##  6. Fetching JSON Data (Asynchronous)
 
 - Often used with `fetch()` to **get data from APIs**
 - Can be combined with `async/await` for cleaner code
 
 ---
 
-## 📌 Summary – What to Remember
+##  Summary – What to Remember
 
 | Concept        | Key Idea                                      |
 |----------------|-----------------------------------------------|
