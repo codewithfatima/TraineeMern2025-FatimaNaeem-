@@ -1,6 +1,4 @@
-### Here’s a cleaner, more professional version of your README for the `Web-Development-Roadmap` repository. It’s structured for clarity and better readability:
-
----
+### 
 
 # 🌐 Web Development Roadmap
 
@@ -60,6 +58,3 @@ The original roadmap was shared as a PDF document by **Buggcy Company**. This re
 
 This repository is personal and intended as a learning journal. Feedback and collaboration are welcome if you're following a similar path!
 
----
-
-Let me know if you'd like to add a table of contents, license, or badges.
